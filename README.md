@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/using-bootstrap-css-grid-WDKOiVTeg)
 - [Live](https://nitheeshkumar-c.github.io/3-column-preview-card-component/)
 
 ## My process
