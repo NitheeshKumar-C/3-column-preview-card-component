@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 }
-body{
+main{
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -59,11 +59,6 @@ p{
 .bttn:hover{
     color: white;
     background-color: transparent;
-}
-i{
-    color:hsl(31, 77%, 52%) hsl(184, 100%, 22%)hsl(179, 100%, 13%)
-    
-    hsla(0, 0%, 100%, 0.75)hsl(0, 0%, 95%)
 }
 .attribution{
     margin-top: 5%;
