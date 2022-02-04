@@ -1,0 +1,57 @@
+@media only screen and (min-width:992px) and (max-width:2000px){
+    p{
+        height: 35%;
+    }
+    .bttn{
+        position: relative;
+        top: 15%;
+        margin-bottom: 3%;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    
+    .content{
+        margin-top: 2rem;
+        max-width: 90%;
+    }
+    .SUVs{
+        border-radius: 0 0.5rem 0.5rem 0;
+    }
+    .Luxury{
+        width: 50%;
+        margin: 0 auto;
+        border-radius: 0 0 0.5rem 0.5rem;
+    }
+}
+@media (max-width:767px){
+    .content{
+        margin-top: 2rem;
+        max-width: 75%;
+        
+    }
+    p{
+        padding: 1rem 0 2rem 0;
+    }
+    .SUVs{
+        border-radius: 0 0;
+    }
+    .Sedans{
+        border-radius: 0.5rem 0.5rem 0 0;
+    }
+    .Luxury{
+        border-radius: 0 0 0.5rem 0.5rem;
+    }
+    
+}
+@media (max-width:450px){
+    .content{
+        margin-top: 2rem;
+        max-width: 90%;
+    }
+    .row div{
+        padding: 30px;
+    }
+    p{
+        padding-right: 20px;
+    }
+}
